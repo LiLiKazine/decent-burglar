@@ -1,0 +1,15 @@
+{
+  "name": "decent-burglar",
+  "version": "1.0.0",
+  "description": "Grab arts from museum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LiLiKazine",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
